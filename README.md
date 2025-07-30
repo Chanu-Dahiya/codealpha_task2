@@ -24,8 +24,4 @@ This is a social media web application built with Django. It allows users to sig
 - Search for users and posts using the search bar.
 
 
-- This project is configured for development use with `DEBUG=True`.
-- For production deployment, make sure to configure appropriate settings for security and performance.
 
-## License
-This project is open source and available under the MIT License.
